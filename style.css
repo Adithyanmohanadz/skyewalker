@@ -1,0 +1,57 @@
+@font-face {
+    font-family: "Gotham Narrow Ultra";
+    src: url("../fonts/GothamNarrow-Ultra.woff2") format("woff2"),
+      url("../fonts/GothamNarrow-Ultra.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "Gotham Narrow";
+    src: url("../fonts/GothamNarrow-Medium.woff2") format("woff2"),
+      url("../fonts/GothamNarrow-Medium.woff") format("woff");
+    font-weight: 500;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "Gotham Narrow Book";
+    src: url("../fonts/GothamNarrow-Book.woff2") format("woff2"),
+      url("../fonts/GothamNarrow-Book.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "Gotham Narrow";
+    src: url("../fonts/GothamNarrow-Thin.woff2") format("woff2"),
+      url("../fonts/GothamNarrow-Thin.woff") format("woff");
+    font-weight: 100;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "Gotham Narrow";
+    src: url("../fonts/GothamNarrow-Light.woff2") format("woff2"),
+      url("../fonts/GothamNarrow-Light.woff") format("woff");
+    font-weight: 300;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "Gotham Narrow";
+    src: url("../fonts/GothamNarrow-Black.woff2") format("woff2"),
+      url("../fonts/GothamNarrow-Black.woff") format("woff");
+    font-weight: 900;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "Gotham Narrow XLight";
+    src: url("../fonts/GothamNarrow-XLight.woff2") format("woff2"),
+      url("../fonts/GothamNarrow-XLight.woff") format("woff");
+    font-weight: 200;
+    font-style: normal;
+  }
+
+.p-title{
+    font-weight: bold;
+}
+.sub-title{
+    font-size: 15px;
+    margin-bottom: 20px;
+}
