@@ -69,6 +69,7 @@ body {
   font-family: "Raleway", sans-serif;
   height: 100%;
   overflow-x: hidden;
+  
 }
 a {
   cursor: pointer;
@@ -275,6 +276,7 @@ nav ul li:hover .sub-menu {
 }
 .main-banner .banner-slides {
   overflow: hidden;
+  margin-top: 40px;
 }
 .main-banner .banner-slides .slides {
   position: relative;
@@ -289,6 +291,7 @@ nav ul li:hover .sub-menu {
 .main-banner .banner-slides .slides img {
   width: 100%;
   height: auto;
+ 
 }
 .main-banner .banner-slides .slides .slide-overlay {
   position: absolute;
